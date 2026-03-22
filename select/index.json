@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ゼリーフィッシュ",
+  "base_artist": "アイアンフリル",
+  "createdAt": "2026-03-22T09:47:10.922131Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゼリーフィッシュ",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/01_ゼリーフィッシュ_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゼリーフィッシュ",
+      "artist": "アイアンフリル",
+      "has_synced": true,
+      "path": "select/02_ゼリーフィッシュ_アイアンフリル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゼリーフィッシュ",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/03_ゼリーフィッシュ_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゼリーフィッシュ",
+      "artist": "アイアンフリル (徳井青空, 金子千紗, 日野向葵, 真央, 遠野まゆ)",
+      "has_synced": true,
+      "path": "select/04_ゼリーフィッシュ_アイアンフリル_(徳井青空,_金子千紗,_日野向葵,_真央,_遠野まゆ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゼリーフィッシュ",
+      "artist": "アイアンフリル",
+      "has_synced": false,
+      "path": "select/pl_01_ゼリーフィッシュ_アイアンフリル.txt"
+    }
+  ]
+}
